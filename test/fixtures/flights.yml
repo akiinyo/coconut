@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  departure: 2011-08-23 12:05:09
+  arrival: 2011-08-23 12:05:09
+  destination: MyString
+  baggage_allowance: 9.99
+  capacity: 1
+
+two:
+  departure: 2011-08-23 12:05:09
+  arrival: 2011-08-23 12:05:09
+  destination: MyString
+  baggage_allowance: 9.99
+  capacity: 1
